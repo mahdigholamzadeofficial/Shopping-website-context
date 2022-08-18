@@ -41,6 +41,7 @@
   justify-content: space-between;
   align-items: center;
   margin: 35px 20px 20px;
+  height:35px;
 }
 
 .linkContainer a {
